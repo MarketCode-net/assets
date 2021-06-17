@@ -1,0 +1,10 @@
+"name":"MarketCode",
+"website": "http://MarketCode.net",
+"description": "A decentralized social trading system and asset management by artificial intelligence with big data.",
+"explorer": "https://bscscan.com/token/0x39c56dca0b3a552ae5da30ab9cb8dc715c3168e9",
+"type": "BEP20",
+"symbol": "MAC",
+"decimals": 9,
+"status": "active",
+"id": "0x39c56dca0b3a552ae5da30ab9cb8dc715c3168e9"
+}
